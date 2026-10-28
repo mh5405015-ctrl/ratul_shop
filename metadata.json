@@ -1,0 +1,6 @@
+{
+  "name": "Ratul Shop - আধুনিক ই-কমার্স ও ইনভেন্টরি ম্যানেজমেন্ট",
+  "description": "Ratul Shop (রাতুল শপ) - ১০০+ প্রিমিয়াম প্রোডাক্ট, ক্যাটাগরি ফিল্টার, শপিং কার্ট, বিকাশ ও নগদ পেমেন্ট গেটওয়ে, ইউজার প্রোফাইল ও এডমিন ইনভেন্টরি কন্ট্রোল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
